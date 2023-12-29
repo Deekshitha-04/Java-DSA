@@ -19,3 +19,4 @@ public class g1 {
     }
 
 }
+system.out.println("mani)[D[C:[1;5D");
